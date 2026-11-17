@@ -1,0 +1,4 @@
+Even though V2 works better than V1 of brain tumour classification i believe there is still room to improve.
+Because in medical cases the accuracy of ~80% is less and should be close to 90-95%.
+As the lower accuracy can result in false negative which is far more risky than false positive in Medical field, for example in V1, the model failed to identify tumour and labelled it no_tumour which in real world would be highly misleading and cause misdiagnosis.
+for final i plan to improve further b training the model on both the dataset of V1 and V2 so as to increase the total datapool, in hopes of increasing accuracy.
