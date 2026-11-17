@@ -119,4 +119,4 @@ The trained model is saved in Keras format:
 8. Upload custom MRI images to test predictions.
 
 ## Result
-model failed to successfully identify tumour in unseen image provided despite training on different dataset.
+model failed to successfully identify tumour in unseen image provided despite training on different dataset. But it is still improvement over V1.
